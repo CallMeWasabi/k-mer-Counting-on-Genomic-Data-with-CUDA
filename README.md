@@ -1,5 +1,7 @@
 # Large-Scale k-mer Counting on Genomic Data with CUDA
 
+- By 6710451321 Suphachock Kamlek 
+
 Counts every k-mer (substring of length k) in a DNA sequence with an open-addressing hash table on the GPU,
 and compares it against the CPU (`std::unordered_map`) on the *E. coli* K-12 genome and human chromosome 1 (GRCh38).
 

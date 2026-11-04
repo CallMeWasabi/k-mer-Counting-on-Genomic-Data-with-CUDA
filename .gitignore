@@ -1,0 +1,14 @@
+bin/
+out/
+*.exe
+.vs
+.vscode
+.zed
+.clang-format
+.clangd
+*.nav
+*.snm
+*.tex
+*vrb
+data/grch38_chr1.fa
+# data/grch38_chr1.fa.gz
